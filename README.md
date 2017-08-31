@@ -12,6 +12,7 @@ Study materials from the [International Training School on Reversible Computatio
 * [An interpreter for the reversible functional language RFun](https://github.com/kirkedal/rfun-interp)
 * [An implementation of a reversible semantics for Erlang](https://github.com/mistupv/rev-erlang)
 * [A tool for reversible computation in C++](https://github.com/LLNL/backstroke)
+* [A library and framework for reversible logic synthesis](https://github.com/msoeken/cirkit)
 
 
 
